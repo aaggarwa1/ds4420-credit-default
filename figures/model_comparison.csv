@@ -1,0 +1,7 @@
+,Bayesian Logistic Regression,MLP Neural Network
+Accuracy,81.72,81.7
+Precision,66.24,65.25
+Recall,35.34,36.93
+F1 Score,46.09,47.16
+ROC-AUC,76.22,76.87
+Baseline accuracy (always 'no default'),77.88,77.88
